@@ -138,20 +138,3 @@ A Licença MIT é uma licença de software livre permissiva que permite reutiliz
 *   Ao Cody (AI Coding Assistant da Sourcegraph) pelo auxílio na elaboração deste README e no desenvolvimento do código.
 
 ```
-
-**Próximos Passos:**
-
-1.  Salve este texto em um arquivo chamado `README.md` na raiz do seu projeto (no mesmo diretório de `app.py`).
-2.  Crie um arquivo `.env.example` na raiz do projeto com o conteúdo:
-    ```dotenv
-    GEMINI_API_KEY=SUA_CHAVE_DA_API_DO_GOOGLE_GEMINI
-    SECRET_KEY=UMA_CHAVE_SECRETA_ALEATORIA_PARA_SESSAO_DO_FLASK
-    ````
-3.  Crie ou edite seu arquivo `.gitignore` na raiz do projeto e adicione a linha `/.env` para garantir que seu arquivo de chaves não seja versionado.
-4.  Crie um arquivo chamado `LICENSE` na raiz do projeto e cole o texto completo da Licença MIT (você pode encontrar o texto padrão facilmente online, ou posso fornecê-lo se precisar).
-5.  Substitua `<URL_DO_SEU_REPOSITORIO>` no README pela URL real do seu repositório GitHub.
-6.  Faça commit e push desses novos arquivos para o seu repositório GitHub.
-
-Pronto! Agora você tem um README completo e informativo para o seu projeto AI-ChatBot no GitHub.
-
-Se tiver mais alguma dúvida ou quiser refinar alguma seção, é só me dizer!
